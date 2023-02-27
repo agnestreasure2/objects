@@ -9,4 +9,4 @@ function instagramPost(HandleOfAuthour, Content, link, numberOfViews, numberofLi
 }
 
 //QUESTION 2:
-let firstIgPost = new instagramPost('@agneytreasure', 'Overtly ')
+let firstIgPost = new instagramPost('@agneytreasure', 'Overtly ');
